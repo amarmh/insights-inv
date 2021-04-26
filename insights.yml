@@ -1,0 +1,2 @@
+# basic example using environment vars for auth
+plugin: redhat.insights.insights
