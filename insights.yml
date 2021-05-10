@@ -1,6 +1,5 @@
 # basic example using environment vars for auth
 #plugin: redhat.insights.insights
-
 # create groups for patching
 plugin: redhat.insights.insights
 get_patches: yes
